@@ -1,9 +1,9 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/home/xhunteq/Desktop/hardhat-marketplace/contracts/NFTMarketplace.sol": {
-      "lastModificationDate": 1683539308595,
-      "contentHash": "4c1bc2cfb7dee2f41ea0b162eed35d39",
+    "/home/xhunteq/Desktop/nft-hardhat-marketplace/contracts/NFTMarketplace.sol": {
+      "lastModificationDate": 1683540519706,
+      "contentHash": "d206b92edf3825a7459d3a8b6096328a",
       "sourceName": "contracts/NFTMarketplace.sol",
       "solcConfig": {
         "version": "0.8.7",
@@ -45,7 +45,7 @@
         "NftMarketplace"
       ]
     },
-    "/home/xhunteq/Desktop/hardhat-marketplace/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
+    "/home/xhunteq/Desktop/nft-hardhat-marketplace/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
       "lastModificationDate": 1683461807480,
       "contentHash": "eb7e61db29f31d88b3c1cef1b063d338",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721.sol",
@@ -89,7 +89,7 @@
         "IERC721"
       ]
     },
-    "/home/xhunteq/Desktop/hardhat-marketplace/node_modules/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
+    "/home/xhunteq/Desktop/nft-hardhat-marketplace/node_modules/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
       "lastModificationDate": 1683461807556,
       "contentHash": "03e6768535ac4da0e9756f1d8a4a018a",
       "sourceName": "@openzeppelin/contracts/utils/introspection/IERC165.sol",
